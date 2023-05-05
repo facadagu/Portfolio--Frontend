@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.portfolio.david.DavidApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 53.482 s - in com.portfolio.david.DavidApplicationTests

@@ -13,14 +13,17 @@ div {
 
 @media (min-width: 576px){
     #fotoDePerfil {
-        position: absolute;
-        width: 15%;
         border-radius: 100%;
         height: 180px;
         box-shadow: 3px 3px 3px gray;
         left: 3%;
         top: 380px
+    }
 
+    .descripcion {
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
 

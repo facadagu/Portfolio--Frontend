@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Estilos para el contenedor y el borde */
+  .container {
+    border: 3px solid black;
+    padding: 20px;
+    text-align: center;
+  }

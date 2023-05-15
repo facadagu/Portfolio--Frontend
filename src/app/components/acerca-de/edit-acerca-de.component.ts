@@ -33,7 +33,7 @@ export class EditAcercaDeComponent implements OnInit{
       data=> {
         this.router.navigate(['']);
       },err => {
-        alert("Error al modificar la educacion");
+        alert("Error al modificar");
         this.router.navigate(['']);
       }
     )

@@ -20,11 +20,13 @@ div {
         top: 380px
     }
 
-    .descripcion {
+    .descripcion{
         display: flex;
         justify-content: center;
         align-items: center;
     }
+
+    
 }
 
 @media (max-width: 575px){
@@ -34,7 +36,7 @@ div {
         border-radius: 100%;
         box-shadow: 3px 3px 3px gray;
         left: 36%;
-        top: 690px
+        top: 650px
 
     }
 }
@@ -46,7 +48,7 @@ div {
         border-radius: 100%;
         box-shadow: 3px 3px 3px gray;
         left: 36%;
-        top: 720px
+        top: 680px
 
     }
 }
